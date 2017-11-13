@@ -1,0 +1,25 @@
+Project IGI +2 Trainer version 1.2
+
+After an insane amount of mail ive finally gotten my act together and updated the trainer.
+Heres whats new since version 1.1 :
+
+- The godmode now makes you immune to electric fences
+- The M16 wont run out of grenades
+- I added hotkeys to the cheats because some machines crash when you shell out of IGI
+  Press F11 for unlimited ammo and F12 for godmode.
+- Version checking is removed because it didnt work under some circumstances. Please keep
+  in mind that trying to use this trainer on any other version of IGI than 1.0 it may crash the game
+
+I was not able to make you cowards immune to those annoying APC's but hey, when you are able to
+fall 50ft, being shot a few hundred times, hit severly in the face and stand next to an exploding
+computer without getting as much as a scratch you must surely be able to outrun a mere tank :)
+
+This is the LAST version of the trainer. There will be NO more updates whatsoever. If the trainer
+does not work for you then i am truly sorry but i simply dont have the time to help you out.
+
+I do NOT do requests, not even if your mothers life depends on it. Remember that if you search the
+right way, the net can provide you with anything.
+
+An extremely merry christmas to y'all!
+
+- GD [gd@nuts.edu]

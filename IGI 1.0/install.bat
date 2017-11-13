@@ -1,0 +1,1 @@
+copy config.qvm C:\Program Files\Eidos Interactive\Project IGI\pc
